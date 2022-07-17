@@ -1,0 +1,17 @@
+* {
+    margin: 5px;
+}
+
+.Container {
+    display: inline-flex;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info > li {
+    list-style-type: none;
+}
