@@ -22,3 +22,5 @@ You may also see any lint errors in the console.
 * MEDIUM
 ![Medium1](https://user-images.githubusercontent.com/63440483/179383315-30bd7e7f-ec39-4a35-a2d6-e240693de7ac.png)
 ![Medium2](https://user-images.githubusercontent.com/63440483/179383316-1e5f957e-236f-4f4f-bd7d-43dd88cc682a.png)
+* HARD
+![Hard](https://user-images.githubusercontent.com/63440483/179383422-f8b01309-85e3-4c74-94db-fa4ba8dd2bef.png)
